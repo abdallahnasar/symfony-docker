@@ -1,0 +1,3 @@
+list_github_repos:
+    path: /api/v1/repos
+    controller: App\Controller\ReposController::listAction
